@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+
+django-mssql-backend== 2.8.1
+djangorestframework== 3.14.0
